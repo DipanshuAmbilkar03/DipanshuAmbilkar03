@@ -10,31 +10,95 @@ GitHub profile :
 </pre>
 <hr>
 <img align="right" alt="gif" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHpkOG9ubGQzNXAzN3V1N3R5cWVtMjhveGFxYjJ1YjZoZ2sxYXpwMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ll22OhMLAlVDb8UQWe/giphy.webp">
+<p align="left" style="margin-bottom: 20px;">
+  <img src="https://komarev.com/ghpvc/?username=dipanshuambilkar03&label=Profile%20views&color=0e75b6&style=plastic" alt="Profile views" style="vertical-align: middle;" />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dipanshuambilkar03&label=Profile%20views&color=0e75b6&style=plastic" alt="dipanshuambilkar03") /> </p>
+<ul style="list-style-type: none; padding-left: 0; margin-bottom: 20px;">
+  <li style="margin-bottom: 10px; font-size: 18px;">
+    🌱 I’m currently learning <strong>MongoDB, FrameWorks, and courses.</strong>
+  </li>
+  <li style="margin-bottom: 10px; font-size: 18px;">
+    👨‍💻 All of my projects are available at 
+    <a href="https://github.com/DipanshuAmbilkar03" style="color: #0366d6; text-decoration: none; font-weight: bold;">GitHub</a>
+  </li>
+  <li style="margin-bottom: 10px; font-size: 18px;">
+    💬 Ask me about <strong>Python, Java, NodeJs, Express, EJS</strong>
+  </li>
+  <li style="margin-bottom: 10px; font-size: 18px;">
+    📫 How to reach me: <a href="mailto:dipanshuambilker@gmail.com" style="color: #0366d6; text-decoration: none; font-weight: bold;">dipanshuambilker@gmail.com</a>
+  </li>
+</ul>
 
-<p align="left"> <a href="https://twitter.com/dipanshuam33955" target="blank"><img src="https://img.shields.io/twitter/follow/dipanshuam33955?logo=twitter&style=for-the-badge&style=plastic" alt="dipanshuam33955" /></a> </p>
-<hr>
-- 🌱 I’m currently learning **MongoDB,FrameWorks and courses.**
+<hr style="border: none; border-top: 2px solid #e1e4e8; margin-top: 20px; margin-bottom: 20px;">
 
-- 👨‍💻 All of my projects are available at [https://github.com/DipanshuAmbilkar03](https://github.com/DipanshuAmbilkar03)
-
-- 💬 Ask me about **NodeJs,Express,EJS,Python,**
-
-- 📫 How to reach me **dipanshuambilker@gmail.com**
-<hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/dipanshuam33955" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dipanshuam33955" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dipanshuambilkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dipanshuambilkar" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/dipanshu ambilkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="dipanshu ambilkar" height="30" width="40" /></a>
-<a href="https://instagram.com/dipanshu_ambilkar_0312" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dipanshu_ambilkar_0312" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/onyx_stranglar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="onyx_stranglar" height="30" width="40" /></a>
+  <a href="https://twitter.com/dipanshuam33955" target="blank">
+    <img src="https://img.shields.io/badge/Twitter-dipanshuam33955?logo=twitter&logoColor=white&style=for-the-badge&labelColor=1DA1F2&color=1DA1F2" alt="Twitter" />
+  </a>
+  <a href="https://linkedin.com/in/dipanshuambilkar" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-dipanshuambilkar?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=0077B5&color=0077B5" alt="LinkedIn" />
+  </a>
+  <a href="https://stackoverflow.com/users/dipanshu ambilkar" target="blank">
+    <img src="https://img.shields.io/badge/Stack_Overflow-dipanshu_ambilkar?logo=stackoverflow&logoColor=white&style=for-the-badge&labelColor=F48024&color=F48024" alt="Stack Overflow" />
+  </a>
+  <a href="https://instagram.com/dipanshu_ambilkar_0312" target="blank">
+    <img src="https://img.shields.io/badge/Instagram-dipanshu_ambilkar_0312?logo=instagram&logoColor=white&style=for-the-badge&labelColor=E4405F&color=E4405F" alt="Instagram" />
+  </a>
+  <a href="https://www.leetcode.com/onyx_stranglar" target="blank">
+    <img src="https://img.shields.io/badge/LeetCode-onyx_stranglar?logo=leetcode&logoColor=white&style=for-the-badge&labelColor=FFA116&color=FFA116" alt="LeetCode" />
+  </a>
 </p>
+
 <hr>
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="left">
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  </a>
+  <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white" alt="Cassandra" />
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="Node.js" />
+  </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  </a>
+</p>
 <hr>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dipanshuambilkar03&show_icons=true&locale=en&layout=compact&bg_color=0f0f0f&title_color=ffffff&text_color=ffffff" alt="dipanshuambilkar03" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dipanshuambilkar03&show_icons=true&locale=en&bg_color=0f0f0f&title_color=ffffff&text_color=ffffff" alt="dipanshuambilkar03" /></p>
