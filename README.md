@@ -8,30 +8,31 @@
 </code>
 </pre>
 <hr>
-<p><img alt="GitHub Snake" src="https://raw.githubusercontent.com/Dipanshuambilkar03/Dipanshuambilkar03/output/github-contribution-grid-snake.svg" /></p>
+<p><img alt="GitHub Snake" src="https://raw.githubusercontent.com/DipanshuAmbilkar03/DipanshuAmbilkar03/output/github-contribution-grid-snake.svg" /></p>
 <img align="right" alt="gif" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHpkOG9ubGQzNXAzN3V1N3R5cWVtMjhveGFxYjJ1YjZoZ2sxYXpwMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ll22OhMLAlVDb8UQWe/giphy.webp">
 
-[![](https://visitcount.itsvg.in/api?id=dipanshuambilkar03&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <ul style="list-style-type: none; padding-left: 0; margin-bottom: 20px;">
-  <li style="margin-bottom: 10px; font-size: 18px;">
-    🌱 I’m currently learning <strong>MongoDB, FrameWorks, and courses.</strong>
+  <li style="margin-bottom: 10px; font-size: 12px;">
+    🌱 I’m currently learning <strong>React and Tailwind</strong>
   </li>
-  <li style="margin-bottom: 10px; font-size: 18px;">
+  <li style="margin-bottom: 10px; font-size: 12px;">
     👨‍💻 All of my projects are available at 
     <a href="https://github.com/DipanshuAmbilkar03" style="color: #0366d6; text-decoration: none; font-weight: bold;">GitHub</a>
   </li>
-  <li style="margin-bottom: 10px; font-size: 18px;">
-    💬 Ask me about <strong>Python, Java, NodeJs, Express, EJS</strong>
+  <li style="margin-bottom: 10px; font-size: 12px;">
+    🚀 I’m passionate about <strong>Java, JavaScript, Node.js, Python, Express, EJS</strong> and always eager to learn more!
   </li>
-  <li style="margin-bottom: 10px; font-size: 18px;">
+  <li style="margin-bottom: 10px; font-size: 12px;">
+    ✊ I'm committed to progress and continuous improvement, setting myself apart from the rest.
+  </li>
+  <li style="margin-bottom: 10px; font-size: 12px;">
     📫 How to reach me: <a href="mailto:dipanshuambilker@gmail.com" style="color: #0366d6; text-decoration: none; font-weight: bold;">dipanshuambilker@gmail.com</a>
   </li>
 </ul>
 
 <hr style="border: none; border-top: 2px solid #e1e4e8; margin-top: 20px; margin-bottom: 20px;">
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left" style="font-size: 12px;">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/dipanshuam33955" target="blank">
     <img src="https://img.shields.io/badge/Twitter-dipanshuam33955?logo=twitter&logoColor=white&style=for-the-badge&labelColor=1DA1F2&color=1DA1F2" alt="Twitter" />
@@ -51,7 +52,7 @@
 </p>
 
 <hr>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left" style="font-size: 12px;">Languages and Tools:</h3>
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
@@ -103,5 +104,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dipanshuambilkar03&show_icons=true&locale=en&bg_color=0f0f0f&title_color=ffffff&text_color=ffffff" alt="dipanshuambilkar03" /></p>
 <hr>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dipanshuambilkar03&background=0f0f0f&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="dipanshuambilkar03" /></p>
-
-
