@@ -15,7 +15,7 @@
 
 <ul style="list-style-type: none; padding-left: 0; margin-bottom: 20px;">
   <li style="margin-bottom: 10px; font-size: 12px;">
-    🌱 I’m currently learning <strong>React and Tailwind</strong>
+    🌱 I’m currently Working on <strong>React and Tailwind</strong>
   </li>
   <li style="margin-bottom: 10px; font-size: 12px;">
     👨‍💻 All of my projects are available at 
