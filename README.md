@@ -11,6 +11,10 @@
 <p><img alt="GitHub Snake" src="https://raw.githubusercontent.com/DipanshuAmbilkar03/DipanshuAmbilkar03/output/github-contribution-grid-snake.svg" /></p>
 <img align="right" alt="gif" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHpkOG9ubGQzNXAzN3V1N3R5cWVtMjhveGFxYjJ1YjZoZ2sxYXpwMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ll22OhMLAlVDb8UQWe/giphy.webp">
 
+<p align="left" style="margin-bottom: 20px;">
+  <img src="https://komarev.com/ghpvc/?username=dipanshuambilkar03&label=Profile%20views&color=0e75b6&style=plastic" alt="Profile views" style="vertical-align: middle;" />
+</p>
+
 <ul style="list-style-type: none; padding-left: 0; margin-bottom: 20px;">
   <li style="margin-bottom: 10px; font-size: 12px;">
     🌱 I’m currently learning <strong>React and Tailwind</strong>
