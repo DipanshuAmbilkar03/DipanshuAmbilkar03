@@ -8,10 +8,10 @@
 </code>
 </pre>
 <hr>
-<p><img alt="GitHub Snake" src="https://raw.githubusercontent.com/DipanshuAmbilkar03/DipanshuAmbilkar03/output/github-contribution-grid-snake.svg" /></p>
-<img align="right" alt="gif" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHpkOG9ubGQzNXAzN3V1N3R5cWVtMjhveGFxYjJ1YjZoZ2sxYXpwMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ll22OhMLAlVDb8UQWe/giphy.webp">
 
 [![](https://visitcount.itsvg.in/api?id=dipanshuambilkar03&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<img align="right" alt="gif" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHpkOG9ubGQzNXAzN3V1N3R5cWVtMjhveGFxYjJ1YjZoZ2sxYXpwMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ll22OhMLAlVDb8UQWe/giphy.webp">
 
 <ul style="list-style-type: none; padding-left: 0; margin-bottom: 20px;">
   <li style="margin-bottom: 10px; font-size: 12px;">
@@ -106,3 +106,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dipanshuambilkar03&show_icons=true&locale=en&bg_color=0f0f0f&title_color=ffffff&text_color=ffffff" alt="dipanshuambilkar03" /></p>
 <hr>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dipanshuambilkar03&background=0f0f0f&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="dipanshuambilkar03" /></p>
+
+<p><img alt="GitHub Snake" src="https://raw.githubusercontent.com/DipanshuAmbilkar03/DipanshuAmbilkar03/output/github-contribution-grid-snake.svg" /></p>
+
