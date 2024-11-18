@@ -10,7 +10,6 @@
 </pre>
 <hr>
 
-[![](https://visitcount.itsvg.in/api?id=dipanshuambilkar03&icon=0&color=0)](https://visitcount.itsvg.in)
 [![](https://visitcount.itsvg.in/api?id=dipanshuambilkar03-reset&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <img align="right" alt="gif" width="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHpkOG9ubGQzNXAzN3V1N3R5cWVtMjhveGFxYjJ1YjZoZ2sxYXpwMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ll22OhMLAlVDb8UQWe/giphy.webp">
