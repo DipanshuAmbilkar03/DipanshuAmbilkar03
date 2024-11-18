@@ -10,7 +10,13 @@
 </pre>
 <hr>
 
-![Profile Views](https://img.shields.io/badge/Profile%20Views-56980-brightgreen)
+<div align="left" style="display: flex; align-items: center; justify-content: center;">
+  <h2 style="margin-right: 10px;">👀 Profile Views</h2>
+  <img src="https://img.shields.io/badge/Profile%20Views-56980-gradient?style=plastic&logo=github&logoColor=white" alt="Profile Views" width="160">
+</div>
+
+<!--![Profile Views](https://img.shields.io/badge/Profile%20Views-56980-brightgreen)-->
+
 
 <img align="right" alt="gif" width="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHpkOG9ubGQzNXAzN3V1N3R5cWVtMjhveGFxYjJ1YjZoZ2sxYXpwMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ll22OhMLAlVDb8UQWe/giphy.webp">
 
