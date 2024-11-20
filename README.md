@@ -12,7 +12,7 @@
 
 <div align="left" style="display: flex; align-items: center; justify-content: center;">
   <h2 style="margin-right: 10px;">👀 Profile Views</h2>
-  <img src="https://img.shields.io/badge/Profile%20Views-105-gradient?style=plastic&logo=github&logoColor=white" alt="Profile Views" width="160">
+  <img src="https://img.shields.io/badge/Profile%20Views-105-gradient?style=&logo=github&logoColor=white" alt="Profile Views" width="140">
 </div>
 
 <!--![Profile Views](https://img.shields.io/badge/Profile%20Views-56980-brightgreen)-->
