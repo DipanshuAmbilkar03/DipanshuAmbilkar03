@@ -109,12 +109,11 @@
   </a>
 </p>
 <hr>
-
+<!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dipanshuambilkar03&show_icons=true&locale=en&layout=compact&bg_color=0f0f0f&title_color=ffffff&text_color=ffffff" alt="dipanshuambilkar03" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dipanshuambilkar03&show_icons=true&locale=en&bg_color=0f0f0f&title_color=ffffff&text_color=ffffff" alt="dipanshuambilkar03" /></p>
 <hr>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dipanshuambilkar03&background=0f0f0f&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="dipanshuambilkar03" /></p>
-
+-->
 <p><img alt="GitHub Snake" src="https://raw.githubusercontent.com/DipanshuAmbilkar03/DipanshuAmbilkar03/output/github-contribution-grid-snake.svg" /></p>
 
