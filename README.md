@@ -1,4 +1,4 @@
-## 👨‍💻 About Me:
+HELO
 <pre>
 <code>
     ____ ___ ____   _    _   _  ___  _   _ _   _      _    __  __ ____ ___ _    __  __    _    ____ 
@@ -24,20 +24,20 @@
 
 <ul style="list-style-type: none; padding-left: 0; margin-bottom: 20px;">
   <li style="margin-bottom: 10px; font-size: 12px;">
-    🌱 I’m currently Working on <strong>React and Tailwind</strong>
+    Currently understanding <strong>Redux</strong>
   </li>
   <li style="margin-bottom: 10px; font-size: 12px;">
-    👨‍💻 All of my projects are available at 
+    All of my projects are available at 
     <a href="https://github.com/DipanshuAmbilkar03" style="color: #0366d6; text-decoration: none; font-weight: bold;">GitHub</a>
   </li>
   <li style="margin-bottom: 10px; font-size: 12px;">
-    🚀 I’m passionate about <strong>Java, JavaScript, Node.js, Python, Express, EJS</strong> and always eager to learn more!
+    I’m passionate about <strong>Java, JavaScript, Node.js, Python, Express, EJS</strong> and always eager to learn more!
   </li>
   <li style="margin-bottom: 10px; font-size: 12px;">
-    ✊ I'm committed to progress and continuous improvement, setting myself apart from the rest.
+    I'm committed to progress and continuous improvement, setting myself apart from the rest.
   </li>
   <li style="margin-bottom: 10px; font-size: 12px;">
-    📫 How to reach me: <a href="mailto:dipanshuambilker@gmail.com" style="color: #0366d6; text-decoration: none; font-weight: bold;">dipanshuambilker@gmail.com</a>
+    How to reach me: <a href="mailto:dipanshuambilker@gmail.com" style="color: #0366d6; text-decoration: none; font-weight: bold;">dipanshuambilker@gmail.com</a>
   </li>
 </ul>
 
@@ -115,5 +115,5 @@
 <hr>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dipanshuambilkar03&background=0f0f0f&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="dipanshuambilkar03" /></p>
 -->
-<p><img alt="GitHub Snake" src="https://raw.githubusercontent.com/DipanshuAmbilkar03/DipanshuAmbilkar03/output/github-contribution-grid-snake.svg" /></p>
+<!-- <p><img alt="GitHub Snake" src="https://raw.githubusercontent.com/DipanshuAmbilkar03/DipanshuAmbilkar03/output/github-contribution-grid-snake.svg" /></p> -->
 
