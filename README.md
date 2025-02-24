@@ -24,7 +24,7 @@ HELO
 
 <ul style="list-style-type: none; padding-left: 0; margin-bottom: 20px;">
   <li style="margin-bottom: 10px; font-size: 12px;">
-    Currently understanding <strong>Redux</strong>
+    Currently understanding <strong>Redux & SpringBoot and stuff</strong>
   </li>
   <li style="margin-bottom: 10px; font-size: 12px;">
     All of my projects are available at 
