@@ -31,7 +31,7 @@ HELO
     <a href="https://github.com/DipanshuAmbilkar03" style="color: #0366d6; text-decoration: none; font-weight: bold;">GitHub</a>
   </li>
   <li style="margin-bottom: 10px; font-size: 12px;">
-    I’m passionate about <strong>Java, JavaScript, Node.js, Python, Express, EJS</strong> and always eager to learn more!
+    I’m passionate about <strong>Java, JavaScript, Node.js, Python, Pandas, Numpy, MERN</strong> and always eager to learn more!
   </li>
   <li style="margin-bottom: 10px; font-size: 12px;">
     I'm committed to progress and continuous improvement, setting myself apart from the rest.
