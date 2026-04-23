@@ -1,0 +1,92 @@
+<svg width="1400" height="300" viewBox="0 0 1400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="90" y1="24" x2="1310" y2="276" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#07111f" />
+      <stop offset="45%" stop-color="#0b1e2f" />
+      <stop offset="100%" stop-color="#07161a" />
+    </linearGradient>
+    <linearGradient id="accentGrad" x1="180" y1="0" x2="1220" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#34d399" />
+      <stop offset="35%" stop-color="#a3e635" />
+      <stop offset="70%" stop-color="#22c55e" />
+      <stop offset="100%" stop-color="#10b981" />
+    </linearGradient>
+    <linearGradient id="nameFill" x1="180" y1="90" x2="1220" y2="210" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#effdf5" />
+      <stop offset="50%" stop-color="#ffffff" />
+      <stop offset="100%" stop-color="#ccfbf1" />
+    </linearGradient>
+    <linearGradient id="snakeGlow" x1="0" y1="0" x2="1400" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#86efac" />
+      <stop offset="50%" stop-color="#fef08a" />
+      <stop offset="100%" stop-color="#34d399" />
+    </linearGradient>
+    <filter id="softGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="8" result="blur" />
+      <feColorMatrix in="blur" type="matrix" values="1 0 0 0 0  0 1 0 0 0.12  0 0 1 0 0  0 0 0 0.75 0" result="glow" />
+      <feMerge>
+        <feMergeNode in="glow" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <filter id="textGlow" x="-15%" y="-20%" width="130%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <mask id="nameMask" maskUnits="userSpaceOnUse">
+      <rect width="1400" height="300" fill="black" />
+      <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle" font-family="Verdana, Arial, sans-serif" font-size="96" font-weight="900" letter-spacing="7" fill="white">
+        DIPANSHU AMBILKAR
+      </text>
+    </mask>
+  </defs>
+
+  <rect width="1400" height="300" rx="30" fill="url(#bgGrad)" />
+  <rect x="24" y="24" width="1352" height="252" rx="22" stroke="rgba(255,255,255,0.08)" stroke-width="2" />
+  <path d="M70 228 C 240 120, 420 260, 620 150 S 980 54, 1330 176" stroke="rgba(255,255,255,0.06)" stroke-width="2" fill="none" />
+  <path d="M60 74 C 250 40, 430 120, 610 82 S 980 10, 1340 70" stroke="rgba(255,255,255,0.05)" stroke-width="2" fill="none" />
+  <circle cx="120" cy="82" r="88" fill="#10b981" opacity="0.12">
+    <animate attributeName="opacity" values="0.08;0.16;0.08" dur="8s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="1260" cy="220" r="104" fill="#a3e635" opacity="0.08">
+    <animate attributeName="opacity" values="0.05;0.13;0.05" dur="7s" repeatCount="indefinite" />
+  </circle>
+
+  <g opacity="0.95">
+    <circle cx="210" cy="60" r="2.2" fill="#ffffff" opacity="0.55" />
+    <circle cx="330" cy="34" r="1.8" fill="#a7f3d0" opacity="0.5" />
+    <circle cx="1050" cy="58" r="2" fill="#ffffff" opacity="0.45" />
+    <circle cx="1160" cy="92" r="1.8" fill="#d9f99d" opacity="0.45" />
+    <circle cx="100" cy="210" r="1.8" fill="#ffffff" opacity="0.35" />
+    <circle cx="1240" cy="34" r="2" fill="#ffffff" opacity="0.35" />
+  </g>
+
+  <g filter="url(#softGlow)" mask="url(#nameMask)">
+    <path d="M 70 156 C 170 88, 255 222, 355 156 S 540 88, 640 156 S 825 222, 925 156 S 1110 88, 1210 156 S 1310 222, 1360 156" stroke="url(#snakeGlow)" stroke-width="20" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke-dasharray="46 22">
+      <animate attributeName="stroke-dashoffset" from="0" to="-136" dur="8.5s" repeatCount="indefinite" />
+    </path>
+    <path d="M 70 156 C 170 88, 255 222, 355 156 S 540 88, 640 156 S 825 222, 925 156 S 1110 88, 1210 156 S 1310 222, 1360 156" stroke="#0f5132" stroke-width="28" stroke-linecap="round" stroke-linejoin="round" fill="none" opacity="0.18" />
+    <circle r="13" fill="#f8ffe8">
+      <animateMotion dur="8.5s" repeatCount="indefinite" rotate="auto" path="M 70 156 C 170 88, 255 222, 355 156 S 540 88, 640 156 S 825 222, 925 156 S 1110 88, 1210 156 S 1310 222, 1360 156" />
+    </circle>
+    <circle r="5" fill="#14532d">
+      <animateMotion dur="8.5s" repeatCount="indefinite" rotate="auto" path="M 70 156 C 170 88, 255 222, 355 156 S 540 88, 640 156 S 825 222, 925 156 S 1110 88, 1210 156 S 1310 222, 1360 156" />
+    </circle>
+    <circle r="4" fill="#fef3c7" opacity="0.8">
+      <animateMotion dur="8.5s" repeatCount="indefinite" rotate="auto" path="M 88 144 C 178 80, 260 208, 365 144 S 550 80, 655 144 S 842 208, 945 144 S 1120 80, 1230 144 S 1320 208, 1360 144" />
+    </circle>
+  </g>
+
+  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle" font-family="Verdana, Arial, sans-serif" font-size="96" font-weight="900" letter-spacing="7" fill="none" stroke="rgba(255,255,255,0.18)" stroke-width="8" filter="url(#textGlow)">
+    DIPANSHU AMBILKAR
+  </text>
+  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle" font-family="Verdana, Arial, sans-serif" font-size="96" font-weight="900" letter-spacing="7" fill="url(#nameFill)" opacity="0.92">
+    DIPANSHU AMBILKAR
+  </text>
+  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle" font-family="Verdana, Arial, sans-serif" font-size="96" font-weight="900" letter-spacing="7" fill="none" stroke="rgba(255,255,255,0.12)" stroke-width="1.25">
+    DIPANSHU AMBILKAR
+  </text>
+</svg>
