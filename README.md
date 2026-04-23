@@ -26,20 +26,29 @@
         <div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.06); border-radius: 16px; padding: 18px;">
           <h3 style="margin: 0 0 12px; color: #ccfbf1; font-size: 16px;">Connect</h3>
           <p style="margin: 0; line-height: 2.1;">
-            <a href="https://twitter.com/dipanshuam33955" target="blank">
-              <img src="https://img.shields.io/badge/Twitter-dipanshuam33955?logo=twitter&logoColor=white&style=for-the-badge&labelColor=0f172a&color=16a34a" alt="Twitter" />
+            <a href="https://github.com/dipanshuAmbilkar03" target="blank">
+              <img src="https://img.shields.io/badge/GitHub-dipanshuAmbilkar03?logo=github&logoColor=white&style=for-the-badge&labelColor=0f172a&color=15803d" alt="GitHub" />
             </a>
-            <a href="https://linkedin.com/in/dipanshuambilkar" target="blank">
+            <a href="https://www.linkedin.com/in/dipanshuambilkar/" target="blank">
               <img src="https://img.shields.io/badge/LinkedIn-dipanshuambilkar?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=0f172a&color=14b8a6" alt="LinkedIn" />
             </a>
-            <a href="https://stackoverflow.com/users/dipanshu ambilkar" target="blank">
+            <a href="https://x.com/OnyxStrang47663" target="blank">
+              <img src="https://img.shields.io/badge/X-OnyxStrang47663?logo=x&logoColor=white&style=for-the-badge&labelColor=0f172a&color=166534" alt="X" />
+            </a>
+            <a href="https://leetcode.com/u/dipanshu0312/" target="blank">
+              <img src="https://img.shields.io/badge/LeetCode-dipanshu0312?logo=leetcode&logoColor=white&style=for-the-badge&labelColor=0f172a&color=f97316" alt="LeetCode" />
+            </a>
+            <a href="https://stackoverflow.com/users/26987358/dipanshu-ambilkar" target="blank">
               <img src="https://img.shields.io/badge/Stack_Overflow-dipanshu_ambilkar?logo=stackoverflow&logoColor=white&style=for-the-badge&labelColor=0f172a&color=f59e0b" alt="Stack Overflow" />
             </a>
-            <a href="https://instagram.com/dipanshu_ambilkar_0312" target="blank">
-              <img src="https://img.shields.io/badge/Instagram-dipanshu_ambilkar_0312?logo=instagram&logoColor=white&style=for-the-badge&labelColor=0f172a&color=ec4899" alt="Instagram" />
+            <a href="https://www.geeksforgeeks.org/profile/dipanshuaq2tc" target="blank">
+              <img src="https://img.shields.io/badge/GeeksforGeeks-dipanshuaq2tc?logo=geeksforgeeks&logoColor=white&style=for-the-badge&labelColor=0f172a&color=16a34a" alt="GeeksforGeeks" />
             </a>
-            <a href="https://www.leetcode.com/onyx_stranglar" target="blank">
-              <img src="https://img.shields.io/badge/LeetCode-onyx_stranglar?logo=leetcode&logoColor=white&style=for-the-badge&labelColor=0f172a&color=f97316" alt="LeetCode" />
+            <a href="https://www.kaggle.com/onyxstrangler" target="blank">
+              <img src="https://img.shields.io/badge/Kaggle-onyxstrangler?logo=kaggle&logoColor=white&style=for-the-badge&labelColor=0f172a&color=0ea5e9" alt="Kaggle" />
+            </a>
+            <a href="https://dipanshuambilkar-orcin.vercel.app/" target="blank">
+              <img src="https://img.shields.io/badge/Portfolio-Visit%20Site?logo=vercel&logoColor=white&style=for-the-badge&labelColor=0f172a&color=0891b2" alt="Portfolio" />
             </a>
           </p>
         </div>
