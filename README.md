@@ -29,7 +29,7 @@
     Full-Stack Developer, Frontend Deployment Engineer, & Project Lead at <strong>MeteoLabs</strong>.
   </li>
   <li style="margin-bottom: 12px; font-size: 13px;">
-    Led 2 RFID-driven IoT squads, built the award-winning <strong>DWLR Ground Water Monitoring System</strong> (2nd prize), and presented research at <strong>ICRTAIDS 2025</strong>.
+    Led 2 RFID-driven IoT squads, built the award-winning <strong>DWLR Ground Water Monitoring System</strong> (2nd prize), and presented research at <strong>IEEEPuneCon2025 and ICRTAIDS 2025</strong>.
   </li>
   <li style="margin-bottom: 12px; font-size: 13px;">
     Passionate about <strong>Java, JavaScript, Python, MERN Stack, Spring Boot, and Machine Learning (Scikit-Learn, Pandas, NumPy)</strong>.
