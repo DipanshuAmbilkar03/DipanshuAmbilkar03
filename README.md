@@ -10,7 +10,7 @@
 <hr>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-56980-00E5FF?style=for-the-badge&logo=github&logoColor=white" alt="Profile Views">
+  <img src="https://dipanshu-1fs4.onrender.com/api/views?username=dipanshuambilkar03&label=Visitor&color=black&theme=blue&style=flat-square" alt="Profile Views">
   &nbsp;&nbsp;
   <a href="https://leetcode.com/u/dipanshu0312/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile">
