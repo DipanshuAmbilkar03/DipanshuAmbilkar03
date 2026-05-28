@@ -10,7 +10,9 @@
 <hr>
 
 <div align="center">
-  <img src="https://dipanshu-1fs4.onrender.com/api/views?username=dipanshuambilkar03&label=Visitor&color=black&theme=blue&style=flat-square" alt="Profile Views">
+  <!-- <img src="https://dipanshu-1fs4.onrender.com/api/views?username=dipanshuambilkar03&label=Visitor&color=black&theme=blue&style=flat-square" alt="Profile Views"> -->
+    <img src="https://komarev.com/ghpvc/?username=dipanshuambilkar03" width="170" alt="Profile Views">
+    <!-- ![](https://komarev.com/ghpvc/?username=your-github-username) -->
   &nbsp;&nbsp;
   <a href="https://leetcode.com/u/dipanshu0312/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile">
