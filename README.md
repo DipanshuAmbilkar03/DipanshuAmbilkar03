@@ -27,8 +27,9 @@
   <li style="margin-bottom: 12px; font-size: 13px;">
     Currently scaling <strong>Production-Grade AI Assistants</strong>, integrating <strong>Gemini & OpenAI API</strong>, and building resilient backends.
   </li>
+    
   <li style="margin-bottom: 12px; font-size: 13px;">
-    Full-Stack Developer, Frontend Deployment Engineer, & Project Lead at <strong>MeteoLabs</strong>.
+    Full-Stack Developer, Frontend Deployment Engineer, & Project Lead at <strong>Metio Labs</strong>.
   </li>
   <li style="margin-bottom: 12px; font-size: 13px;">
     Led 2 RFID-driven IoT squads, built the award-winning <strong>DWLR Ground Water Monitoring System</strong> (2nd prize), and presented research at <strong>IEEEPuneCon2025 and ICRTAIDS 2025</strong>.
@@ -89,6 +90,7 @@
     <td valign="top"><strong>Tools, Cloud & Prototyping</strong></td>
     <td valign="top">
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
       <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
       <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
@@ -204,5 +206,5 @@
 ### Academic Performance (SGPA Semester Progress)
 
 <p align="center">
-  <img src="https://quickchart.io/chart?bkg=transparent&width=500&height=220&c=%7Btype%3A%27bar%27%2Cdata%3A%7Blabels%3A%5B%27Sem%201%27%2C%27Sem%202%27%2C%27Sem%203%27%2C%27Sem%204%27%2C%27Sem%205%27%5D%2Cdatasets%3A%5B%7Blabel%3A%27SGPA%27%2Cdata%3A%5B9.68%2C9.24%2C9.45%2C9.36%2C9.86%5D%2CbackgroundColor%3A%27rgba%280%2C229%2C255%2C0.7%29%27%2CborderColor%3A%27%2300E5FF%27%2CborderWidth%3A1%7D%5D%7D%2Coptions%3A%7Blegend%3A%7Bdisplay%3Afalse%7D%2Cscales%3A%7ByAxes%3A%5B%7Bticks%3A%7BfontColor%3A%27%238b949e%27%2Cmin%3A8.5%2Cmax%3A10%7D%2CgridLines%3A%7Bcolor%3A%27rgba%28255%2C255%2C255%2C0.08%29%27%7D%7D%5D%2CxAxes%3A%5B%7Bticks%3A%7BfontColor%3A%27%238b949e%27%7D%2CgridLines%3A%7Bdisplay%3Afalse%7D%7D%5D%7D%7D%7D" alt="Academic Performance Graph" />
+  <img src="https://quickchart.io/chart?bkg=transparent&width=500&height=220&c=%7Btype%3A%27bar%27%2Cdata%3A%7Blabels%3A%5B%27Sem%201%27%2C%27Sem%202%27%2C%27Sem%203%27%2C%27Sem%204%27%2C%27Sem%205%27%2C%27Sem%206%27%5D%2Cdatasets%3A%5B%7Blabel%3A%27SGPA%27%2Cdata%3A%5B9.68%2C9.24%2C9.45%2C9.36%2C9.86%2C9.71%5D%2CbackgroundColor%3A%27rgba%280%2C229%2C255%2C0.7%29%27%2CborderColor%3A%27%2300E5FF%27%2CborderWidth%3A1%7D%5D%7D%2Coptions%3A%7Blegend%3A%7Bdisplay%3Afalse%7D%2Cscales%3A%7ByAxes%3A%5B%7Bticks%3A%7BfontColor%3A%27%238b949e%27%2Cmin%3A8.5%2Cmax%3A10%7D%2CgridLines%3A%7Bcolor%3A%27rgba%28255%2C255%2C255%2C0.08%29%27%7D%7D%5D%2CxAxes%3A%5B%7Bticks%3A%7BfontColor%3A%27%238b949e%27%7D%2CgridLines%3A%7Bdisplay%3Afalse%7D%7D%5D%7D%7D%7D" alt="Academic Performance Graph" />
 </p>
